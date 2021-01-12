@@ -1,1 +1,1 @@
-#Application registration for azure
+# Application registration for azure
